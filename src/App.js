@@ -4,6 +4,11 @@ function App() {
   return (
     <div className="App">
         work
+        <form>
+            <input>
+
+            </input>
+        </form>
     </div>
   );
 }
